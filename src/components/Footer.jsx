@@ -9,10 +9,10 @@ const Footer = () => {
             <div className="max-w-5xl mx-auto py-5 px-2">
                 <div>
                     <div className="flex justify-center items-center gap-4">
-                        <a href="#" className="flex justify-center items-center gap-2 p-2 rounded-full font-semibold text-medium bg-[#0a66c2] hover:-translate-y-2 transition-all duration-300">
+                        <a href="https://www.linkedin.com/in/kanhaiyabanjara" className="flex justify-center items-center gap-2 p-2 rounded-full font-semibold text-medium bg-[#0a66c2] hover:-translate-y-2 transition-all duration-300">
                             <BiLogoLinkedinSquare fontSize={24} />
                         </a>
-                        <a href="#" className="flex justify-center items-center gap-2 p-2 rounded-full font-semibold text-medium bg-[#0D1117] hover:-translate-y-2 transition-all duration-300">
+                        <a href="https://github.com/kanhaiyabanjara" className="flex justify-center items-center gap-2 p-2 rounded-full font-semibold text-medium bg-[#0D1117] hover:-translate-y-2 transition-all duration-300">
                             <BiLogoGithub fontSize={24} />
                         </a>
                         <a href="#" className="flex justify-center items-center gap-2 p-2 rounded-full font-semibold text-medium bg-white text-orange-500 hover:-translate-y-2 transition-all duration-300">
